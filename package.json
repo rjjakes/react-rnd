@@ -98,7 +98,7 @@
     "fixture": "./fixture.html"
   },
   "dependencies": {
-    "re-resizable": "5.0.1",
+    "re-resizable": "https://github.com/rjjakes/re-resizable.git",
     "react-draggable": "3.3.0",
     "tslib": "1.10.0"
   }
